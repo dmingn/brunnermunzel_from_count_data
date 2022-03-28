@@ -16,5 +16,5 @@ Compute the Brunner-Munzel test on two count datas (mappings from values to its 
 ## Install
 
 ```
-pip install git+https://github.com/dmingn/brunnermunzel_from_count_data.git
+pip install git+https://github.com/dmingn/brunnermunzel_from_count_data.git@main
 ```

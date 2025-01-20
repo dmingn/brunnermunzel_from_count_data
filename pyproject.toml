@@ -17,7 +17,7 @@ scipy = "^1.2.0"
 
 [tool.poetry.dev-dependencies]
 black = "^22.1.0"
-isort = {extras = ["pyproject"], version = "^5.10.1"}
+isort = {extras = ["pyproject"], version = "^5.11.5"}
 mypy = "^1.4"
 pydocstyle = "^6.3.0"
 pyproject-flake8 = "^5.0.4.post1"
